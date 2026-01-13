@@ -1,4 +1,4 @@
-# README – Bài tập PyTorch (BTVN 1 → BTVN 5)
+# README – Bài tập PyTorch
 
 ## 1. Công nghệ sử dụng
 
